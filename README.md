@@ -43,6 +43,8 @@
 - **[Hoppscotch](https://hoppscotch.io/)** — An open-source, in-browser API client for REST, GraphQL, and WebSocket requests.
 - **[JSONPlaceholder](https://jsonplaceholder.typicode.com/)** — A free fake REST API for testing and prototyping front-end code.
 
+- **[PageUtil CSV Fixer](https://pageutil.com/csv-fixer/)** — Inspect CSV structure and encoding, review proposed text repairs, and export CSV or Excel locally without an account.
+
 ## Security & Cryptography
 
 - **[encrypt.tools](https://encrypt.tools/)** — 60+ cryptography tools covering AES-256, RSA/ECC and Ed25519 key generation, SHA/BLAKE hashing, HMAC, PGP, and classical ciphers from Caesar to Enigma — built on the Web Crypto API and audited libraries.
